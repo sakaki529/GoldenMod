@@ -1,0 +1,2 @@
+# GoldenMod
+Mod for Terraria
