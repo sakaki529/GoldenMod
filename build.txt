@@ -1,0 +1,8 @@
+displayName = [c/D4AF37:GOLDEN ARMAGEDDON]
+author = Cleyera
+version = 0.1.8
+hideCode = true
+hideResources = true
+includeSource = false
+includePDB = false
+side = Client

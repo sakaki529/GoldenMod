@@ -1,0 +1,11 @@
+===========================================
+[c/D4AF37:-Description-]
+===========================================
+[c/D4AF37:>GOLDEN ITEMS<]
+[c/D4AF37:>GOLDEN PROJECTILES<]
+[c/D4AF37:>GOLDEN NPCS<]
+[c/D4AF37:>GOLDEN TILES<]
+[c/D4AF37:>GOLDEN WALLS<]
+[c/D4AF37:>GOLDEN DUSTS<]
+
+[c/D4AF37:You can set what to make gold from mod config.]
