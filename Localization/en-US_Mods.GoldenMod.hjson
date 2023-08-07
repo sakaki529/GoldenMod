@@ -1,0 +1,35 @@
+Configs: {
+	GoldenConfig: {
+		DisplayName: Config
+
+		GoldenItemsInWorld: {
+			Label: Golden Items in world
+			Tooltip: ""
+		}
+
+		GoldenProjectiles: {
+			Label: Golden Projectiles
+			Tooltip: ""
+		}
+
+		GoldenNPCs: {
+			Label: Golden NPCs
+			Tooltip: ""
+		}
+
+		GoldenTiles: {
+			Label: Golden Tiles
+			Tooltip: ""
+		}
+
+		GoldenWalls: {
+			Label: Golden Walls
+			Tooltip: Broken. Not recommended.
+		}
+
+		GoldenDusts: {
+			Label: Golden Dusts
+			Tooltip: ""
+		}
+	}
+}

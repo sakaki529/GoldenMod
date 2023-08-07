@@ -1,0 +1,12 @@
+===========================================
+[h1]-Description-[/h1]
+===========================================
+> GOLDEN ITEMS <
+> GOLDEN PROJECTILES <
+> GOLDEN NPCS <
+> GOLDEN TILES <
+> GOLDEN WALLS <
+> GOLDEN DUSTS <
+
+You can set what to make gold from mod config.
+===========================================
